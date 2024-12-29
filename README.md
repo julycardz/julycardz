@@ -2,6 +2,7 @@
 
 **`Desenvolvedora Front-End`**
 
+<p align="left">
 Me chamo July Cardoso, tenho 28 anos e sou de Betim, Minas Gerais. Atualmente, estou cursando Sistema de Informação na UNA. Sou apaixonada por tecnologia.
 <p align="left">
 
