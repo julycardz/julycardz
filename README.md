@@ -4,27 +4,8 @@
 
 <p align="left">
 Me chamo July Cardoso, tenho 28 anos e sou de Betim, Minas Gerais. Atualmente, estou cursando Sistema de Informação na UNA. Sou apaixonada por tecnologia.
-<p align="left">
 
-    <a href="https://github.com/julycardz?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/julycardz?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
-### 🤖 Linguagens e Tecnologias
+--- ### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
