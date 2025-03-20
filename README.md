@@ -1,8 +1,8 @@
 # 👩🏻‍💻 July Cardz
 
 💻 De Betim, MG <br>
-📚 Estudante de Sistemas de Informação na UNA
-⚡ Criando projetos para aprimorar minhas habilidades
+📚 Estudante de Sistemas de Informação na UNA <br>
+⚡ Criando projetos para aprimorar minhas habilidades <br>
 🛠️ Estudando HTML, CSS, JavaScript e Python
 
 --- ### 🤖 Linguagens e Tecnologias
