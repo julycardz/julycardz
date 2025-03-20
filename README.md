@@ -1,11 +1,9 @@
 # 👩🏻‍💻 July Cardz
 
-**`Desenvolvedora Front-End`**
-
-<p align="left">
-Me chamo July Cardoso, tenho 28 anos, sou de Betim em Minas Gerais.
-    Atualmente, estou cursando Sistema de Informação na UNA. 
-    ----- Sou apaixonada por tecnologia ---- 
+💻 De Betim, MG
+📚 Estudante de Sistemas de Informação na UNA
+⚡ Criando projetos para aprimorar minhas habilidades
+🛠️ Estudando HTML, CSS, JavaScript e Python
 
 --- ### 🤖 Linguagens e Tecnologias
 
