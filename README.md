@@ -3,7 +3,6 @@
 💻 De Betim, MG <br>
 📚 Estudante de Sistema de Informação na UNA <br>
 ⚡ Criando projetos para aprimorar minhas habilidades <br>
-🛠️ Estudando HTML, CSS, JavaScript e Python
 
 --- ### 🤖 Linguagens e Tecnologias
 
