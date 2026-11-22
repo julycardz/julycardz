@@ -1,4 +1,4 @@
-# 👩🏻‍💻 July Cardz
+# 👩🏻‍💻 July Cardoso
 
 💻 De Betim, MG <br>
 📚 Estudante de Sistema de Informação na UNA <br>
